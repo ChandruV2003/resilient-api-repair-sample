@@ -1,5 +1,7 @@
 # Resilient API Repair Sample
 
+[![Tests](https://github.com/ChandruV2003/resilient-api-repair-sample/actions/workflows/tests.yml/badge.svg)](https://github.com/ChandruV2003/resilient-api-repair-sample/actions/workflows/tests.yml)
+
 A small, dependency-free Python portfolio sample showing how a brittle paginated API workflow can be repaired without hiding the failure modes.
 
 This is a transparent AI-assisted demonstration project, not client work. Before publishing it or using it in a proposal, Chandru should review every line, run the tests personally, and be able to explain the retry, pagination, validation, and atomic-write choices.
