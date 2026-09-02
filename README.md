@@ -4,7 +4,9 @@
 
 A small, dependency-free Python portfolio sample showing how a brittle paginated API workflow can be repaired without hiding the failure modes.
 
-This is a transparent AI-assisted demonstration project, not client work. Before publishing it or using it in a proposal, Chandru should review every line, run the tests personally, and be able to explain the retry, pagination, validation, and atomic-write choices.
+This is a transparent AI-assisted demonstration project, not client work. It is
+published as engineering proof rather than a claim of paid delivery. Every real
+engagement is separately scoped, tested, and personally reviewed before handoff.
 
 ## The failure pattern
 
@@ -53,3 +55,21 @@ IDs: 101, 102, 103
 ## Scope boundaries
 
 This sample does not contain customer data, credentials, proprietary code, browser automation, financial orders, or code copied from JVT, NTC, an employer, or another project. It is not a claim that every API needs the same retry policy: production behavior must follow the service contract and its idempotency and rate-limit rules.
+
+## Need a similar repair?
+
+I am available for small, paid, fixed-scope Python automation and API debugging
+projects:
+
+- **$125 diagnostic:** reproduce one failure and deliver a root-cause report
+  with a bounded repair plan;
+- **$250 focused repair:** diagnostic, one agreed repair, regression evidence,
+  and a concise handoff; or
+- a separately quoted scope when the work spans multiple systems or failures.
+
+Before quoting, I need the expected result, current failure, environment,
+deadline, and acceptance test. Please sanitize examples and never send passwords,
+tokens, private keys, production secrets, or customer data through a public issue.
+
+[View the full portfolio](https://github.com/ChandruV2003) ·
+[Contact me on LinkedIn](https://www.linkedin.com/in/chandru-vasudevan-546347193/)
